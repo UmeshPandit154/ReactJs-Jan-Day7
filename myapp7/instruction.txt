@@ -1,0 +1,57 @@
+ReactJs Application Create
+
+SPA  (Single Page Application)
+
+
+The Project Folder Structure
+/src
+    index.js (Logic)
+/public
+    index.html (View)
+/node-modules
+package.json
+
+A very important Principle
+Kiss rULE
+
+
+kEEP IT sIMMPLE sTUPID
+
+
+npm  start
+  ->
+    react-scripts start
+      ->
+       
+         index.js(Element place) root element index.html
+
+
+
+
+A f 
+   B c
+      C f
+          D c
+
+
+Every Component can have its data that data can be
+1. Within inside the Component
+2. It can come from outside the component
+
+
+JavaScript Object
+
+{
+  //1. P:V
+
+ //2.  Method
+
+}
+
+object.member
+
+1. object.property
+2. object.methods()
+             
+
+
